@@ -6,15 +6,15 @@
 
 <!-- Written by the Team before the code: your own choice, a few sentences per answer. Everything else in the Submission follows from it. -->
 
-**Enterprise:** <!-- Which mining enterprise, or which part of it, the twin represents. -->
+**Enterprise:** <!-- Вымышленный открытый карьер.-->
 
-**Users:** <!-- Who uses the twin. -->
+**Users:** <!-- Все люди, заинтересованные в работе карьера и его экологическом состоянии. -->
 
-**Decision:** <!-- Which decision the twin helps them make. -->
+**Decision:** <!-- Решения о добыче, позволяющие уменьшить разрушение поверхности и вред окружающей среде. -->
 
-**Why this choice:** <!-- Why this enterprise, these users and this decision. -->
+**Why this choice:** <!-- Открытая добыча оставляет огромные карьеры и разрушает поверхность земли.-->
 
-**Real or fictional:** <!-- A real object: name it and give the sources of its numbers. A fictional one: which real objects it resembles and where its numbers come from. A real object with sourced numbers scores higher. -->
+**Real or fictional:** <!-- Вымышленный карьер, созданный на основе реальных медных карьеров Казахстана — Актогай и Бозшаколь. Открытые сведения об этих предприятиях будут использоваться в качестве источников для определения характеристик и числовых параметров нашей модели.. -->
 
 ## Team
 
