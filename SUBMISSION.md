@@ -20,7 +20,7 @@ Real or fictional: Вымышленный карьер, созданный на 
 
 | GitHub |
 |---|
-|  |
+| Wisnbwvwh |
 
 ## Mine
 
